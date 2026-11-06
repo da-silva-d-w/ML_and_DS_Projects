@@ -1,11 +1,14 @@
-# Machine Learning Projects
+# Machine Learning and Data Science Projects
 
-A collection of practical projects focused on Machine Learning, covering exploratory data analysis, data preprocessing, feature engineering, model development, evaluation, and interpretation.
+A collection of practical projects focused on Data Analysis, Machine Learning, and Data Science, covering exploratory data analysis, data preprocessing, feature engineering, model development, evaluation, and interpretation.
+
+> **Repository status:** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 ## Projects
 
 ### Bank Marketing
-<badge color="warning">In progress</badge>
+
+![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 Exploratory data analysis and Machine Learning modeling using the Bank Marketing dataset from the UCI Machine Learning Repository.
 
