@@ -1,17 +1,17 @@
 # Machine Learning and Data Science Projects
 
-A collection of practical projects focused on Data Analysis, Machine Learning, and Data Science, covering exploratory data analysis, data preprocessing, feature engineering, model development, evaluation, and interpretation.
+Coleção de projetos práticos voltados à Análise de Dados, Ciência de Dados e Machine Learning, abrangendo diferentes etapas do fluxo de trabalho, como análise exploratória, pré-processamento de dados, engenharia de atributos, desenvolvimento de modelos, avaliação e interpretação de resultados.
 
-> **Repository status:** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
+> **Status do repositório:** ![Em andamento](https://img.shields.io/badge/Status-Em%20andamento-yellow)
 
-## Projects
+## Projetos
 
 ### Bank Marketing
 
-![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-Exploratory data analysis and Machine Learning modeling using the Bank Marketing dataset from the UCI Machine Learning Repository.
+Projeto de classificação binária utilizando o conjunto de dados [Bank Marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing), disponibilizado pelo UCI Machine Learning Repository. O objetivo é prever se um cliente aceitará a oferta de um depósito a prazo após uma campanha de marketing.
 
-The project is currently under development, with additional analyses and modeling stages to be added.
+O projeto aborda análise exploratória e pré-processamento de dados, engenharia de atributos, tratamento do desbalanceamento de classes, comparação e otimização de modelos, além da seleção de limiares de decisão (thresholds). Também são investigados dois cenários de previsão: com e sem a variável `duration`.
 
-**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
+**Tecnologias:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn e XGBoost.
