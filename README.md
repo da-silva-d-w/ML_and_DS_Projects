@@ -15,3 +15,12 @@ Projeto de classificação binária utilizando o conjunto de dados [Bank Marketi
 O projeto aborda análise exploratória e pré-processamento de dados, engenharia de atributos, tratamento do desbalanceamento de classes, comparação e otimização de modelos, além da seleção de limiares de decisão (thresholds). Também são investigados dois cenários de previsão: com e sem a variável `duration`.
 
 **Tecnologias:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn e XGBoost.
+
+
+### Steel Plate Fault Classification
+
+![Planned](https://img.shields.io/badge/Status-Planned-yellow)
+
+Projeto de classificação multiclasse utilizando o conjunto de dados [Steel Plates Faults](https://archive.ics.uci.edu/dataset/198/steel+plates+faults), disponibilizado pelo UCI Machine Learning Repository. O objetivo é desenvolver modelos de Machine Learning para identificar diferentes tipos de defeitos em chapas de aço, explorando técnicas de análise de dados, pré-processamento, tratamento de desbalanceamento, otimização e avaliação de modelos.
+
+**Tecnologias:** Python, Pandas, NumPy, Matplotlib, Seaborn e Scikit-learn.
