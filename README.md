@@ -17,10 +17,10 @@ O projeto aborda análise exploratória e pré-processamento de dados, engenhari
 **Tecnologias:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn e XGBoost.
 
 
-### Steel Plate Fault Classification
+### Classificação de Cargas Elétricas
 
-![Planned](https://img.shields.io/badge/Status-Planned-yellow)
+![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
-Projeto de classificação multiclasse utilizando o conjunto de dados [Steel Plates Faults](https://archive.ics.uci.edu/dataset/198/steel+plates+faults), disponibilizado pelo UCI Machine Learning Repository. O objetivo é desenvolver modelos de Machine Learning para identificar diferentes tipos de defeitos em chapas de aço, explorando técnicas de análise de dados, pré-processamento, tratamento de desbalanceamento, otimização e avaliação de modelos.
+Projeto de análise exploratória e classificação multiclasse utilizando um conjunto de dados de consumo de energia elétrica em uma instalação industrial. O objetivo é investigar padrões de consumo e características elétricas associados a diferentes níveis de carga (Light Load, Medium Load e Maximum Load), desenvolvendo modelos de Machine Learning para identificar essas categorias.
 
-**Tecnologias:** Python, Pandas, NumPy, Matplotlib, Seaborn e Scikit-learn.
+**Tecnologias:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn e XGBoost.
